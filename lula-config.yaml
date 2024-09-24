@@ -1,0 +1,5 @@
+constants:
+  component:
+    title: my-app
+    description: this is my app description
+    
